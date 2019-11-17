@@ -39,6 +39,10 @@ li.associates {
 	margin-bottom: 0.2em;
 }
 
+li.visitors, li.associates {
+	list-style-type: none;
+}
+
 h2 {
     font-family: Arial, sans-serif;
     font-size: 1.5em;
